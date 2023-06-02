@@ -1,4 +1,4 @@
-# UDA
+# GVN
 
 This is the implementation of [A Gumbel-based Rating Prediction Framework for Imbalanced Recommendation](https://arxiv.org/pdf/2012.05009.pdf) at 
 CIKM-2022.
